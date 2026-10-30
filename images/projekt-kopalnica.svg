@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b4f8a"/><stop offset="1" stop-color="#1e88e5"/></linearGradient></defs><rect width="600" height="450" fill="url(#g)"/><circle cx="520" cy="60" r="140" fill="#fff" opacity=".06"/><circle cx="60" cy="420" r="120" fill="#fff" opacity=".05"/>
+<rect x="120" y="250" width="360" height="110" rx="55" fill="#fff" opacity=".95"/>
+<rect x="140" y="230" width="320" height="30" rx="12" fill="#e3f2fd"/>
+<path d="M170 230 V120 a30 30 0 0 1 60 0" stroke="#fff" stroke-width="12" fill="none" stroke-linecap="round"/>
+<circle cx="230" cy="135" r="14" fill="#ffb300"/>
+<g fill="#bbdefb" opacity=".9"><circle cx="230" cy="170" r="5"/><circle cx="222" cy="190" r="4"/><circle cx="238" cy="200" r="4"/></g>
+<rect x="160" y="360" width="20" height="30" fill="#fff" opacity=".8"/><rect x="420" y="360" width="20" height="30" fill="#fff" opacity=".8"/>
+<g stroke="#fff" stroke-opacity=".15" stroke-width="2"><path d="M0 100H600M0 200H600M150 0V230M300 0V230M450 0V230"/></g></svg>
